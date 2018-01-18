@@ -10,18 +10,34 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" />
 	</head>
 	<body>
+
+
 
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
 
 				<!-- Wrapper -->
 					<div id="wrapper">
+						<section class="panel color1">
+							<div class="intro">
+								<nav class="navigation">
+									<ul>
+										<li><a href="/">Thirio</a></li>
+										<li><a href="#about">About</a></li>
+										<li><a href="#services">Service</a></li>
+										<li><a href="#howitworks">How it works</a></li>
+										<li><a href="#team">Team</a></li>
+										<li><a href="#contact">Contact</a></li>
+									</ul>
+								</nav>
+							</div>
+						</section>
 
 						<!-- Panel (Banner) -->
-							<section class="panel banner right">
+							<section class="panel banner right" id="about">
 								<div class="content color0 span-3-75">
 									<h1 class="major">Hello, We are<br />
 									<strong>Thirio</strong></h1>
@@ -30,29 +46,40 @@
 										<li><a href="#first" class="button special color1 circle icon fa-angle-right">Next</a></li>
 									</ul>
 								</div>
-								<div class="image filtered span-1-75" data-position="25% 25%">
+								<!-- <div class="image filtered span-1-75" data-position="25% 25%">
 									<img src="images/pic01.jpg" alt="" />
-								</div>
+								</div> -->
 							</section>
 
 						<!-- Panel (Spotlight) -->
-							<section class="panel spotlight medium right" id="first">
-								<div class="content span-7">
+							<section class="panel color1" id="services">
+								<div class="intro joined">
 									<h2 class="major">Foods</h2>
 									<p>We bring you some of the most delicious foods from across our country with rich in spices with some best taste across the nation.</p>
 								</div>
-								<div class="image filtered tinted" data-position="top left">
+								<!-- <div class="image filtered tinted" data-position="top left">
 									<img src="images/pic02.jpg" alt="" />
-								</div>
+								</div> -->
 							</section>
 
+							<!-- Panel (Spotlight) -->
+								<section class="panel color1" id="team">
+									<div class="intro joined">
+										<h2 class="major">Team</h2>
+										<p>We are a team of people from delhi working to serve you better</p>
+									</div>
+									<!-- <div class="image filtered tinted" data-position="top left">
+										<img src="images/pic02.jpg" alt="" />
+									</div> -->
+								</section>
+
 						<!-- Panel -->
-							<section class="panel color1">
+							<section class="panel color1" id="howitworks">
 								<div class="intro joined">
 									<h2 class="major">Fitness</h2>
 									<p>We care for you so we always see that our food are healthy and fit for your fitness and full of nutrition.</p>
 								</div>
-								<div class="inner">
+								<!-- <div class="inner">
 									<ul class="grid-icons three connected">
 										<li><span class="icon fa-diamond"><span class="label">Lorem</span></span></li>
 										<li><span class="icon fa-camera-retro"><span class="label">Ipsum</span></span></li>
@@ -61,7 +88,7 @@
 										<li><span class="icon fa-bar-chart"><span class="label">Amet</span></span></li>
 										<li><span class="icon fa-code"><span class="label">Nullam</span></span></li>
 									</ul>
-								</div>
+								</div> -->
 							</section>
 
 
@@ -69,12 +96,9 @@
 
 
 						<!-- Panel -->
-							<section class="panel color4-alt">
-								<div class="intro color4">
+							<section class="panel color4-alt" id="contact">
+								<div class="inner">
 									<h2 class="major">Contact</h2>
-									<p>We are in delhi. Feel free to react us anytime. We love to have you as a guest.</p>
-								</div>
-								<div class="inner columns divided">
 									<div class="span-3-25">
 										<form method="post" action="#">
 											<div class="field half">
@@ -94,7 +118,7 @@
 											</ul>
 										</form>
 									</div>
-									<div class="span-1-5">
+									<!-- <div class="span-1-5">
 										<ul class="contact-icons color1">
 											<li class="icon fa-twitter"><a href="#">@untitled-tld</a></li>
 											<li class="icon fa-facebook"><a href="#">facebook.com/untitled</a></li>
@@ -102,7 +126,7 @@
 											<li class="icon fa-instagram"><a href="#">@untitled-tld</a></li>
 											<li class="icon fa-medium"><a href="#">medium.com/untitled</a></li>
 										</ul>
-									</div>
+									</div> -->
 								</div>
 							</section>
 						<!-- Copyright -->

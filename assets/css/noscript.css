@@ -9,3 +9,23 @@
 	body {
 		overflow-x: scroll;
 	}
+
+	.navigation {
+		padding: 50px;
+	}
+
+	.navigation > a {
+		text-decoration: none;
+	}
+
+	.navigation > ul > li {
+		display: block;
+		padding-top: 10px;
+		list-style: none;
+	}
+
+	.navigation > ul > li > a {
+		display: block;
+		font-size: 1.3rem;
+		font-weight: bold;
+	}
