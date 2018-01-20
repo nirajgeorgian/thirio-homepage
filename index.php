@@ -74,7 +74,7 @@
 								</section>
 
 						<!-- Panel -->
-							<section class="panel color1" id="howitworks">
+							<section class="panel color2" id="howitworks">
 								<div class="intro joined">
 									<h2 class="major">Fitness</h2>
 									<p>We care for you so we always see that our food are healthy and fit for your fitness and full of nutrition.</p>
@@ -96,7 +96,7 @@
 
 
 						<!-- Panel -->
-							<section class="panel color4-alt" id="contact">
+							<!-- <section class="panel color4-alt" id="contact">
 								<div class="inner">
 									<h2 class="major">Contact</h2>
 									<div class="span-3-25">
@@ -118,7 +118,7 @@
 											</ul>
 										</form>
 									</div>
-									<!-- <div class="span-1-5">
+									<div class="span-1-5">
 										<ul class="contact-icons color1">
 											<li class="icon fa-twitter"><a href="#">@untitled-tld</a></li>
 											<li class="icon fa-facebook"><a href="#">facebook.com/untitled</a></li>
@@ -126,9 +126,9 @@
 											<li class="icon fa-instagram"><a href="#">@untitled-tld</a></li>
 											<li class="icon fa-medium"><a href="#">medium.com/untitled</a></li>
 										</ul>
-									</div> -->
+									</div>
 								</div>
-							</section>
+							</section> -->
 						<!-- Copyright -->
 							<div class="copyright">&copy; Thirio</div>
 
