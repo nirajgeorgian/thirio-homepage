@@ -52,19 +52,29 @@
 							</section>
 
 						<!-- Panel (Spotlight) -->
-							<section class="panel color1" id="services">
-								<div class="intro joined">
-									<h2 class="major">Foods</h2>
-									<p>We bring you some of the most delicious foods from across our country with rich in spices with some best taste across the nation.</p>
+							<section class="panel banner" id="services">
+								<div class="content color1 span-3-75">
+									<div class="dodo">
+									<img src="images/dodo.JPG" alt="thirio" height="300px" width="300px" />
+
+										<h2>LOVES</h2>
+										<h2>QUALITY</h2>
+										<h2>FOOD</h2>
+									</div>
+
+									<!-- <p>We bring you some of the most delicious foods from across our country with rich in spices with some best taste across the nation.</p> -->
 								</div>
-								<!-- <div class="image filtered tinted" data-position="top left">
-									<img src="images/pic02.jpg" alt="" />
-								</div> -->
+								<!-- <div class="image filtered tinted" data-position="top left"> -->
+									<!-- <img src="images/pic02.jpg" alt="" /> -->
+								<!-- </div> -->
 							</section>
 
+
+
+
 							<!-- Panel (Spotlight) -->
-								<section class="panel color1" id="team">
-									<div class="intro joined">
+								<section class="panel banner" id="team">
+									<div class="content color1 span-3-75">
 										<h2 class="major">Team</h2>
 										<p>We are a team of people from delhi working to serve you better</p>
 									</div>
@@ -74,8 +84,8 @@
 								</section>
 
 						<!-- Panel -->
-							<section class="panel color2" id="howitworks">
-								<div class="intro joined">
+							<section class="panel banner" id="howitworks">
+								<div class="content color2 span-3-75">
 									<h2 class="major">Fitness</h2>
 									<p>We care for you so we always see that our food are healthy and fit for your fitness and full of nutrition.</p>
 								</div>
