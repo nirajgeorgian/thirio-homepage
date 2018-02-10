@@ -51,45 +51,82 @@
 								</div> -->
 							</section>
 
-						<!-- Panel (Spotlight) -->
-							<section class="panel banner" id="services">
-								<div class="content color1 span-3-75">
-									<div class="dodo">
-									<img src="images/dodo.JPG" alt="thirio" height="300px" width="300px" />
+							<!-- Panel (Spotlight) -->
+								<section class="panel banner" id="services">
+									<div class="content color1 span-3-75">
+										<div class="dodo">
+										<img src="images/dodo.JPG" alt="thirio" height="300px" width="300px" />
 
-										<h2>LOVES</h2>
-										<h2>QUALITY</h2>
-										<h2>FOOD</h2>
+											<h2>LOVES</h2>
+											<h2>QUALITY</h2>
+											<h2>FOOD</h2>
+										</div>
+
+										<!-- <p>We bring you some of the most delicious foods from across our country with rich in spices with some best taste across the nation.</p> -->
 									</div>
+								</section>
 
-									<!-- <p>We bring you some of the most delicious foods from across our country with rich in spices with some best taste across the nation.</p> -->
+
+							<section class="panel spotlight medium right" id="first">
+								<!-- <div class="content span-7">
+									<h2 class="major">Sed etiam aenean</h2>
+									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
+								</div> -->
+								<div class="image filtered tinted" data-position="top left">
+									<img src="images/3how_5.jpg" alt="">
 								</div>
-								<!-- <div class="image filtered tinted" data-position="top left"> -->
-									<!-- <img src="images/pic02.jpg" alt="" /> -->
-								<!-- </div> -->
+							</section>
+
+							<section class="panel spotlight medium right" id="first">
+								<!-- <div class="content span-7">
+									<h2 class="major">Sed etiam aenean</h2>
+									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
+								</div> -->
+								<div class="image filtered tinted" data-position="top left">
+									<img src="images/3how2_1.jpg" alt="">
+								</div>
+							</section>
+
+							<section class="panel spotlight medium right" id="first">
+								<!-- <div class="content span-7">
+									<h2 class="major">Sed etiam aenean</h2>
+									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
+								</div> -->
+								<div class="image filtered tinted" data-position="top left">
+									<img src="images/1about_2.jpg" alt="">
+								</div>
+							</section>
+
+							<section class="panel spotlight medium right" id="first">
+								<!-- <div class="content span-7">
+									<h2 class="major">Sed etiam aenean</h2>
+									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
+								</div> -->
+								<div class="image filtered tinted" data-position="top left">
+									<img src="images/4team_3.jpg" alt="">
+								</div>
+							</section>
+
+							<section class="panel spotlight medium right" id="first">
+								<!-- <div class="content span-7">
+									<h2 class="major">Sed etiam aenean</h2>
+									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
+								</div> -->
+								<div class="image filtered tinted" data-position="top left">
+									<img src="images/5contact_5.jpg" alt="">
+								</div>
 							</section>
 
 
 
 
-							<!-- Panel (Spotlight) -->
-								<section class="panel banner" id="team">
-									<div class="content color1 span-3-75">
-										<h2 class="major">Team</h2>
-										<p>We are a team of people from delhi working to serve you better</p>
-									</div>
-									<!-- <div class="image filtered tinted" data-position="top left">
-										<img src="images/pic02.jpg" alt="" />
-									</div> -->
-								</section>
-
 						<!-- Panel -->
-							<section class="panel banner" id="howitworks">
+							<!-- <section class="panel banner" id="howitworks">
 								<div class="content color2 span-3-75">
 									<h2 class="major">Fitness</h2>
 									<p>We care for you so we always see that our food are healthy and fit for your fitness and full of nutrition.</p>
 								</div>
-								<!-- <div class="inner">
+								<div class="inner">
 									<ul class="grid-icons three connected">
 										<li><span class="icon fa-diamond"><span class="label">Lorem</span></span></li>
 										<li><span class="icon fa-camera-retro"><span class="label">Ipsum</span></span></li>
@@ -98,8 +135,8 @@
 										<li><span class="icon fa-bar-chart"><span class="label">Amet</span></span></li>
 										<li><span class="icon fa-code"><span class="label">Nullam</span></span></li>
 									</ul>
-								</div> -->
-							</section>
+								</div>
+							</section> -->
 
 
 
