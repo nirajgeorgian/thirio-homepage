@@ -72,7 +72,7 @@
 										<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 									</div> -->
 									<div class="image tinted" data-position="top left">
-										<img src="images/1about_2.jpg" alt="">
+										<img src="images/1_about.jpg" alt="">
 									</div>
 								</section>
 
@@ -83,7 +83,7 @@
 										<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 									</div> -->
 									<div class="image tinted" data-position="top left">
-										<img src="images/2services_2.jpg" alt="">
+										<img src="images/2_services.jpg" alt="">
 									</div>
 								</section>
 
@@ -94,7 +94,7 @@
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 								</div> -->
 								<div class="image tinted" data-position="top left">
-									<img src="images/3how_5.jpg" alt="">
+									<img src="images/3_how_it_works.jpg" alt="">
 								</div>
 							</section>
 
@@ -105,7 +105,7 @@
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 								</div> -->
 								<div class="image tinted" data-position="top left">
-									<img src="images/3how2_1.jpg" alt="">
+									<img src="images/3_2How_it_works_2.jpg" alt="">
 								</div>
 							</section>
 
@@ -117,7 +117,7 @@
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 								</div> -->
 								<div class="image tinted" data-position="top left">
-									<img src="images/4team_3.jpg" alt="">
+									<img src="images/4_team.jpg" alt="">
 								</div>
 							</section>
 
@@ -127,7 +127,7 @@
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 								</div> -->
 								<div class="image tinted shifttop" data-position="top left">
-									<img src="images/5contact_5.jpg" alt="">
+									<img src="images/5_contact.jpg" alt="">
 								</div>
 							</section>
 
