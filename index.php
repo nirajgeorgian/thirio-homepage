@@ -67,7 +67,7 @@
 								</section>
 
 
-							<section class="panel spotlight medium right" id="first">
+							<section class="panel spotlight medium right" id="howitworks">
 								<!-- <div class="content span-7">
 									<h2 class="major">Sed etiam aenean</h2>
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
@@ -97,7 +97,7 @@
 								</div>
 							</section>
 
-							<section class="panel spotlight medium right" id="first">
+							<section class="panel spotlight medium right" id="team">
 								<!-- <div class="content span-7">
 									<h2 class="major">Sed etiam aenean</h2>
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
@@ -107,7 +107,7 @@
 								</div>
 							</section>
 
-							<section class="panel spotlight medium right" id="first">
+							<section class="panel spotlight medium right" id="contact">
 								<!-- <div class="content span-7">
 									<h2 class="major">Sed etiam aenean</h2>
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
