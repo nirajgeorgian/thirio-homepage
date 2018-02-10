@@ -3485,6 +3485,8 @@
 		flex-shrink: 1;
 		height: 100%;
 		padding: 5rem;
+		background-image: url("../../images/dodo.jpeg");
+		background-repeat: repeat;
 	}
 
 		@media screen and (orientation: portrait) {
