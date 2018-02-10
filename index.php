@@ -21,7 +21,7 @@
 
 				<!-- Wrapper -->
 					<div id="wrapper">
-						<section class="panel color1">
+						<!-- <section class="panel color1">
 							<div class="intro">
 								<nav class="navigation">
 									<ul>
@@ -34,10 +34,10 @@
 									</ul>
 								</nav>
 							</div>
-						</section>
+						</section> -->
 
 						<!-- Panel (Banner) -->
-							<section class="panel banner right" id="about">
+							<!-- <section class="panel banner right" id="about">
 								<div class="content color0 span-3-75">
 									<h1 class="major">Hello, We are<br />
 									<strong>Thirio</strong></h1>
@@ -46,13 +46,13 @@
 										<li><a href="#first" class="button special color1 circle icon fa-angle-right">Next</a></li>
 									</ul>
 								</div>
-								<!-- <div class="image filtered span-1-75" data-position="25% 25%">
+								<div class="image filtered span-1-75" data-position="25% 25%">
 									<img src="images/pic01.jpg" alt="" />
-								</div> -->
-							</section>
+								</div>
+							</section> -->
 
 							<!-- Panel (Spotlight) -->
-								<section class="panel banner" id="services">
+								<!-- <section class="panel banner" id="services">
 									<div class="content color1 span-3-75">
 										<div class="dodo">
 										<img src="images/dodo.JPG" alt="thirio" height="300px" width="300px" />
@@ -62,7 +62,28 @@
 											<h2>FOOD</h2>
 										</div>
 
-										<!-- <p>We bring you some of the most delicious foods from across our country with rich in spices with some best taste across the nation.</p> -->
+										<p>We bring you some of the most delicious foods from across our country with rich in spices with some best taste across the nation.</p>
+									</div>
+								</section> -->
+
+								<section class="panel spotlight medium right" id="first">
+									<!-- <div class="content span-7">
+										<h2 class="major">Sed etiam aenean</h2>
+										<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
+									</div> -->
+									<div class="image tinted" data-position="top left">
+										<img src="images/1about_2.jpg" alt="">
+									</div>
+								</section>
+
+
+								<section class="panel spotlight medium right" id="first">
+									<!-- <div class="content span-7">
+										<h2 class="major">Sed etiam aenean</h2>
+										<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
+									</div> -->
+									<div class="image tinted" data-position="top left">
+										<img src="images/2services_2.jpg" alt="">
 									</div>
 								</section>
 
@@ -72,37 +93,30 @@
 									<h2 class="major">Sed etiam aenean</h2>
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 								</div> -->
-								<div class="image filtered tinted" data-position="top left">
+								<div class="image tinted" data-position="top left">
 									<img src="images/3how_5.jpg" alt="">
 								</div>
 							</section>
 
-							<section class="panel spotlight medium right" id="first">
-								<!-- <div class="content span-7">
-									<h2 class="major">Sed etiam aenean</h2>
-									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
-								</div> -->
-								<div class="image filtered tinted" data-position="top left">
-									<img src="images/3how2_1.jpg" alt="">
-								</div>
-							</section>
 
 							<section class="panel spotlight medium right" id="first">
 								<!-- <div class="content span-7">
 									<h2 class="major">Sed etiam aenean</h2>
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 								</div> -->
-								<div class="image filtered tinted" data-position="top left">
-									<img src="images/1about_2.jpg" alt="">
+								<div class="image tinted" data-position="top left">
+									<img src="images/3how2_1.jpg" alt="">
 								</div>
 							</section>
+
+
 
 							<section class="panel spotlight medium right" id="team">
 								<!-- <div class="content span-7">
 									<h2 class="major">Sed etiam aenean</h2>
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 								</div> -->
-								<div class="image filtered tinted" data-position="top left">
+								<div class="image tinted" data-position="top left">
 									<img src="images/4team_3.jpg" alt="">
 								</div>
 							</section>
@@ -112,7 +126,7 @@
 									<h2 class="major">Sed etiam aenean</h2>
 									<p>Mauris et ligula arcu. Proin dapibus convallis accumsan. Lorem maximus hendrerit orci, sit amet elementum massa hendrerit sed. Donec et ullamcorper ligula. Suspendisse amet potenti. Ut pretium libero eleifend euismod sed tristique. Quisque dictum magna risus, id ultricies justo sagittis vitae. Sed id odio tempor, porttitor elit amet, gravida hendrerit fringilla lorem ipsum dolor.</p>
 								</div> -->
-								<div class="image filtered tinted" data-position="top left">
+								<div class="image tinted shifttop" data-position="top left">
 									<img src="images/5contact_5.jpg" alt="">
 								</div>
 							</section>

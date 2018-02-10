@@ -855,7 +855,7 @@
 
 		.image.filtered:after {
 			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
-			background-size: 128px 128px, auto;
+			/* background-size: 128px 128px, auto; */
 			-moz-pointer-events: none;
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
@@ -3552,7 +3552,7 @@
 		transition-delay: 0.25s;
 		cursor: default;
 		position: relative;
-		height: 32rem;
+		height: 44rem;
 		box-shadow: 0 2rem 4rem 0.25rem rgba(46, 43, 55, 0.575);
 	}
 
